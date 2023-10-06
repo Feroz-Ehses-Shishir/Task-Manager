@@ -1,0 +1,26 @@
+.app {
+  text-align: center;
+  border: 2px solid rgb(0, 0, 0);
+  width: 40%;
+  margin: 20px auto;
+  padding-bottom: 20px;
+  background-color: rgb(255, 242, 224);
+}
+
+.app input{
+    margin-right: 10px;
+}
+
+.btn{
+    background-color: rgb(165, 216, 255);
+    border: none;
+    padding: 3px 20px;
+    cursor: pointer;
+}
+
+ul{
+    width: 50%;
+    margin: 20px auto;
+    list-style-type: none;
+    padding: 0;
+}

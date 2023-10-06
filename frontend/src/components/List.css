@@ -1,0 +1,14 @@
+.list{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 216, 157);
+    margin: 5px;
+    padding: 0 5px;
+}
+
+.list button{
+    background-color: rgb(255, 0, 0);
+    margin: 5px;
+    cursor: pointer;
+}
+  
